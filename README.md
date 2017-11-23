@@ -1,3 +1,7 @@
 ## Roadmap
 
-* a text summarization package.
+* a text summarisation package.
+
+* a package for analysing dynamic network data.
+
+* a data visualization package.
