@@ -1,7 +1,13 @@
 ## Roadmap
 
-* a text summarisation package.
+Three main areas:
 
-* a package for analysing dynamic network data.
+* Text Summarisation
 
-* a data visualization package.
+* Multilayer Networks
+
+  - **EvolvingGraphs.jl** : https://github.com/EtymoIO/EvolvingGraphs.jl
+
+* Data Visualization
+
+  - **lookout** : https://github.com/EtymoIO/lookout
